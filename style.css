@@ -55,16 +55,3 @@ body {
   color: red;
   font-size: 2.5em;
 }
-
-@media screen and (max-width: 750px) {
-
-  body{
-    margin: 30px;
-  }
-
-  }
-  .calculator-grid {
-    margin: 10px;
-    background-color: black;
-  }
-}
